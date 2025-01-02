@@ -2,7 +2,7 @@
 
 SRC := $(wildcard *.cpp)
 OBJ := $(SRC:.cpp=.o)
-BIN := game_test
+BIN := para_game
 RAYLIB_HOME := $(shell realpath ~/opt)
 RAYLIB_INCLUDE := $(RAYLIB_HOME)/include
 RAYLIB_LIB:= $(RAYLIB_HOME)/lib
