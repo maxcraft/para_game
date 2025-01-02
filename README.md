@@ -24,7 +24,7 @@ Start game with no parameters:
 With Raylib installed in non-standard path use LD_LIBRARY_PATH environment variable:
 
 ```
-LD_LIBRARY_PATH=/home/user/opt ./para_game
+LD_LIBRARY_PATH=/home/user/opt/lib ./para_game
 ```
 
 ## Other OS
